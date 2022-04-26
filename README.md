@@ -1,7 +1,7 @@
 
 ```shell
  { “name” : “Agustin Demarco”,
-   “role” : “React JS Dev”,
+   “role” : “Web3 Dev”,
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/agustindemarco/", 
