@@ -1,8 +1,7 @@
 ```md
 # Agustin Demarco
 
-```shell
-{ "name" : "Agustin Demarco",
+{
   "role" : "Backend & Web3 Developer",
   "data" : 
     { 
