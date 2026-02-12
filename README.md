@@ -110,6 +110,4 @@ I'm a full-stack developer with proven experience designing scalable solutions, 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=agustindemarco&color=blueviolet&style=for-the-badge)
 
-*"First, solve the problem. Then, write the code."* — John Johnson
-
 </div>
