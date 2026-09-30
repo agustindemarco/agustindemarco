@@ -78,8 +78,8 @@ I design and build backend-heavy products end to end: **NestJS** services and BF
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agustindemarco&theme=radical" height="165" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agustindemarco&theme=radical" height="165" alt="Top languages" />
+<img src="./profile-summary-card-output/radical/3-stats.svg" height="165" alt="Stats" />
+<img src="./profile-summary-card-output/radical/2-most-commit-language.svg" height="165" alt="Most committed languages" />
 
 <img src="https://streak-stats.demolab.com?user=agustindemarco&theme=radical&hide_border=true" alt="GitHub streak" />
 
