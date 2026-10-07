@@ -1,20 +1,21 @@
 <div align="center">
 
-# Hi, I'm Agustín Demarco 👋
+<img src="./assets/banner.svg" alt="agustin@portfolio — Backend Engineer" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=560&lines=Full-Stack+Developer+%7C+Cloud+%26+DevOps;NestJS+%7C+Next.js+%7C+AWS+Serverless;Building+scalable+backend+systems+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<br/>
 
-**Full-Stack Developer** focused on backend architecture, microservices and cloud infrastructure.<br/>
-Based in Rosario, Argentina 🇦🇷
+**Backend Engineer** · NestJS · Node · AWS · fintech<br/>
+Rosario, Argentina 🇦🇷
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustindemarco/)
-[![GitHub](https://img.shields.io/github/followers/agustindemarco?label=Follow&style=for-the-badge&logo=github&color=181717)](https://github.com/agustindemarco)
+[![Portfolio](https://img.shields.io/badge/portfolio-agustindemarco.com-5cff9d?style=for-the-badge&labelColor=0a0c10)](https://agustindemarco.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-agustindemarco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustindemarco/)
+[![Email](https://img.shields.io/badge/email-demarcoagustinn%40gmail.com-ffb454?style=for-the-badge&labelColor=0a0c10)](mailto:demarcoagustinn@gmail.com)
 
 </div>
 
 ---
 
-## 🧑‍💻 About me
+## `~/about`
 
 ```ts
 const agustin = {
@@ -29,9 +30,24 @@ const agustin = {
 
 I design and build backend-heavy products end to end: **NestJS** services and BFFs, **PostgreSQL** data models, **Next.js** frontends and **AWS serverless** infrastructure. Most of my experience is in **fintech**, where I've migrated legacy systems to the cloud, set up CI/CD pipelines and led backend teams.
 
+> The work nobody sees but everyone uses. → **[See it all at agustindemarco.com](https://agustindemarco.com)**
+
 ---
 
-## 💼 Experience
+## `~/projects`
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[AUREVA](https://aureva.com.ar)** | Site + online booking system with admin panel for an aesthetic medicine practice | Next.js · Node · PostgreSQL |
+| **[Aprende SQL](https://agustindemarco.com/aprende-sql)** | Interactive SQL course that runs entirely in the browser (WASM playground, exercises, exam) | Next.js · sql.js |
+| **Changuito** | Embeddable cart & checkout for local SMBs | Node · Next.js · PostgreSQL |
+| **Goleros** | Booking and hour tracking for football pitches (−25% booking time) | Node · MongoDB · React Native |
+| **Anesthesia System** | Hospital procedure logging (+30% reporting accuracy) | Node · PostgreSQL · React |
+| **[Portfolio](https://agustindemarco.com)** | This site's big sibling: boot sequence, live API explorer, Ctrl+K palette | Next.js · React Three Fiber |
+
+---
+
+## `~/experience`
 
 | Role | Company | Period |
 |------|---------|--------|
@@ -54,34 +70,27 @@ I design and build backend-heavy products end to end: **NestJS** services and BF
 
 ---
 
-## 🛠️ Tech stack
+## `~/stack`
 
 <div align="center">
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,solidity,php,html,css,sass" />
-
-**Backend & Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,react" />
-
-**Databases**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-
-**Cloud & DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,kafka,firebase,git,github,githubactions,linux" />
+<img src="https://skillicons.dev/icons?i=ts,js,solidity,php,html,css,sass&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,react&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kafka,firebase,git,github,githubactions,linux&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 GitHub stats
+## `~/metrics`
 
 <div align="center">
 
-<img src="./profile-summary-card-output/radical/3-stats.svg" height="165" alt="Stats" />
-<img src="./profile-summary-card-output/radical/2-most-commit-language.svg" height="165" alt="Most committed languages" />
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" height="165" alt="Stats" />
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" height="165" alt="Most committed languages" />
 
-<img src="https://streak-stats.demolab.com?user=agustindemarco&theme=radical&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=agustindemarco&theme=dark&hide_border=true&background=0A0C10&ring=5CFF9D&fire=FFB454&currStreakLabel=5CFF9D" alt="GitHub streak" />
 
 </div>
 
@@ -89,8 +98,8 @@ I design and build backend-heavy products end to end: **NestJS** services and BF
 
 <div align="center">
 
-💬 Open to talking about backend architecture, cloud and fintech — reach me on [LinkedIn](https://www.linkedin.com/in/agustindemarco/).
+`$ echo "open to talking backend architecture, cloud and fintech"` → [LinkedIn](https://www.linkedin.com/in/agustindemarco/)
 
-![Profile views](https://komarev.com/ghpvc/?username=agustindemarco&color=blueviolet&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=agustindemarco&color=5cff9d&style=flat-square&labelColor=0a0c10)
 
 </div>
