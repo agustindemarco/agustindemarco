@@ -9,7 +9,6 @@ Rosario, Argentina 🇦🇷
 
 [![Portfolio](https://img.shields.io/badge/portfolio-agustindemarco.com-5cff9d?style=for-the-badge&labelColor=0a0c10)](https://agustindemarco.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-agustindemarco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustindemarco/)
-[![Email](https://img.shields.io/badge/email-demarcoagustinn%40gmail.com-ffb454?style=for-the-badge&labelColor=0a0c10)](mailto:demarcoagustinn@gmail.com)
 
 </div>
 
